@@ -1,0 +1,1 @@
+alert("Hello, World! in an other file");
